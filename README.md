@@ -5,7 +5,7 @@ This is a repo that I have created for all the people I am helping out with Java
 It currently only has reddit posts from r/JavaHelp,
 but I plan to put anything else I help people with in here.
 
-Links will be provided as needed.
+Links will be provided to the original posts, when possible.
 
 
 ## License
