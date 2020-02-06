@@ -3,6 +3,9 @@ package reddit.javahelp.u.tdd246;
 import java.util.Scanner;
 
 
+/**
+ * Reddit Thread: https://www.reddit.com/r/javahelp/comments/ewjiuh/new_with_programming_homework_help/
+ */
 public class FirstProgram {
     /*
      * The starting point for the program. This method

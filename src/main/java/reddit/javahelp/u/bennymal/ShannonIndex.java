@@ -3,6 +3,9 @@ package reddit.javahelp.u.bennymal;
 //this code takes an array that represent species quantity and calculates the shannon diversity index
 
 
+/**
+ * Reddit Thread: https://www.reddit.com/r/javahelp/comments/ewtnr3/need_help_with_array_iteration_and_other_ideas/
+ */
 class ShannonIndex {
     //initializing arrays
     static double[] speciesCountArr = {2, 3, 5};

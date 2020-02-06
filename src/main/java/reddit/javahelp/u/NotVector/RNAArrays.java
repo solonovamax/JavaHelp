@@ -3,6 +3,9 @@ package reddit.javahelp.u.NotVector;
 import java.util.Arrays;
 
 
+/**
+ * Reddit Thread: https://www.reddit.com/r/javahelp/comments/ewr63t/how_to_group_a_sequence_of_characters_into_threes/
+ */
 public class RNAArrays {
     static final String[] rna = {"A", "T", "G",
                                  "C", "C", "T",
