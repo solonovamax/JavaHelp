@@ -1,4 +1,4 @@
-package reddit.javahelp.u;
+package reddit.javahelp.u.TheBoboGuy;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Reddit Thread: https://www.reddit.com/r/javahelp/comments/ezl685/okay_im_really_confused_on_this_code_im_working/
  */
-public class TheBoboGuy {
+public class MovieTicketSystem {
     
     public static void main(String[] args) {
         Scanner keyboard     = new Scanner(System.in);
